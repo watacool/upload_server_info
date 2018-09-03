@@ -1,2 +1,2 @@
 # upload_server_info
-Upload server's host name, IP address, CPU usage rate, memory usage
+Upload the host name, IP address, CPU usage rate and memory usage of the server for various server management.
